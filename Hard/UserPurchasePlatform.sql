@@ -1,3 +1,4 @@
+# Write your MySQL query statement below
 WITH CTE AS (
     SELECT
         spend_date,
